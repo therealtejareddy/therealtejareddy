@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Teja
+### Hi there 👋 I'm [Teja Reddy](https://teja003.vercel.app/)
 
 <!--
 **teja003/teja003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
