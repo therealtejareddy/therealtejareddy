@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Teja Reddy](https://teja003.vercel.app/)
+### Hi there 👋 I'm [Teja Reddy](https://therealtejareddy.vercel.app/)
 
 <!--
 **teja003/teja003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=teja003&show_icons=true&title_color=ffffff&icon_color=ff1616&text_color=ffde59&bg_color=000000">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealtejareddy&show_icons=true&title_color=ffffff&icon_color=ff1616&text_color=ffde59&bg_color=000000">
  </div>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja003&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealtejareddy&layout=compact">
 </div>
